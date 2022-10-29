@@ -10,9 +10,11 @@ Additional Resources:
 
 ## Available Scripts
 
-After installation, you can, run:
+After installation and changes to package.json, you can, run:
 
 ### `npm run start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](https://localhost:3000) to view it in your browser.
+Open [https://localhost:3000](https://localhost:3000) to view it in your browser.
+
+Using Safari, literally drag/drop certificate to secure directory, then double-click the local.cer file to add it to the MacOS system keychain.
