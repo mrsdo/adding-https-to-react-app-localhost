@@ -5,6 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Additional Resources:
 
 [Installing https via openssl ](https://flaviocopes.com/react-how-to-configure-https-localhost/)
+
 [Addings PEM files to keychain on MacOS](https://flaviocopes.com/macos-install-ssl-local/)
 
 ## Available Scripts
