@@ -13,7 +13,8 @@
 
 # misc
 package-lock.json
-
+cert.pem
+keytmp.pem
 .idea
 
 .DS_Store
